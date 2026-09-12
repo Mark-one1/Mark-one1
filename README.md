@@ -1,29 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00F0FF,50:8A2BE2,100:FF2D78&text=Mark%20One&fontSize=45&fontAlign=50&stroke=000000&strokeWidth=0&animation=twinkling" width="100%" alt="banner"/>
+<img src="https://readme-typing-svg.deno.dev/?font=Orbitron&size=58&duration=3000&color=00F0FF&center=true&vCenter=true&repeat=false&width=600&height=110&lines=NAIDU" alt="NAIDU" />
 
-</div>
+<img src="https://readme-typing-svg.deno.dev/?font=Orbitron&size=22&duration=3000&pause=1000&color=FF2D78&center=true&vCenter=true&random=false&width=640&height=50&lines=Full-Stack+Developer;3D+Web+Creator+%7C+Three.js+Enthusiast;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Building+immersive+web+experiences" alt="Typing SVG" />
 
-<br/>
-
-```text
-██╗    ██╗ ██████╗ ██████╗  ██████╗    ██╗     ██╗
-██║    ██║██╔═══██╗██╔══██╗██╔═══██╗    ██║     ██║
-██║ █╗ ██║██║   ██║██████╔╝██║   ██║    ██║ █╗ ██║
-██║███╗██║██║   ██║██╔══██╗██║   ██║    ██║███╗██║
-╚███╔███╔╝╚██████╔╝██████╔╝╚██████╔╝    ╚███╔███╔╝
- ╚══╝╚══╝  ╚═════╝ ╚═════╝  ╚═════╝     ╚══╝╚══╝
-```
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;3D+Web+Creator+%7C+Three.js+Enthusiast;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Building+immersive+web+experiences](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-3D_Web_Experience-00F0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mark-one1.github.io/naiduportfolio/)
 [![GitHub](https://img.shields.io/badge/Follow-Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mark-one1)
@@ -93,13 +74,33 @@ motto: "Code is poetry — make it beautiful."
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mark-one1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2D78&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mark-one1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2D78&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F0FF" alt="GitHub Streak"/>
+<img height="160" src="https://streak-stats.deno.dev/?user=Mark-one1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2D78&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F0FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-one1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8)](https://github.com/Mark-one1)
 
 </div>
+
+<br/>
+
+## 🧊 My Contribution Calendar in 3D
+
+<div align="center">
+
+### 🌃 Night View
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View Contribution Calendar"/>
+
+<br/><br/>
+
+### 🟢 Animated 3D City
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D Green Contribution City"/>
+
+</div>
+
+<br/>
+
+---
 
 <br/>
 
@@ -123,7 +124,7 @@ motto: "Code is poetry — make it beautiful."
 
 ## 🐍 Watch My Code Slither
 
-<img src="https://github.com/Mark-one1/Mark-one1/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating my contributions" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mark-one1/Mark-one1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating my contributions" width="100%"/>
 
 <br/>
 
@@ -162,21 +163,10 @@ motto: "Code is poetry — make it beautiful."
 
 **Visitor Count**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mark-one1.Mark-one1&format=true)
+![Visitors](https://komarev.com/ghpvc/?username=Mark-one1&style=for-the-badge&color=00F0FF)
 
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F0FF,50:8A2BE2,100:FF2D78&section=footer" width="100%" alt="footer"/>
-
-<!--
-
-██╗    ██╗ ██████╗ ██████╗  ██████╗    ██╗     ██╗
-██║    ██║██║██╔═══██╗██╔══██╗██╔═══██╗    ██║     ██║
-██║ █╗ ██║██║   ██║██████╔╝██║   ██║    ██║ █╗ ██║
-██║███╗██║██║   ██║██╔══██╗██║   ██║    ██║███╗██║
-╚███╔███╔╝╚██████╔╝██████╔╝╚██████╔╝    ╚███╔███╔╝
- ╚══╝╚══╝  ╚═════╝ ╚═════╝  ╚═════╝     ╚══╝╚══╝
-
--->
