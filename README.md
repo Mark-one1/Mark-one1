@@ -73,12 +73,12 @@ motto: "Code is poetry — make it beautiful."
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mark-one1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2D78&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mark-one1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2D78&text_color=C9D1D9" alt="GitHub Stats"/>
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mark-one1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2D78&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F0FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-one1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8)](https://github.com/Mark-one1)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mark-one1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8)](https://github.com/Mark-one1)
 
 </div>
 
@@ -104,15 +104,29 @@ motto: "Code is poetry — make it beautiful."
 
 <br/>
 
-## 🏆 Achievements & Activity
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mark-one1&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy-eight-theta.vercel.app/?username=Mark-one1&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+## 📈 Activity & Language Stats
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00F0FF/Mark-one1" alt="GitHub Contribution Chart" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark-one1&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=FF2D78&area=true&area_color=8A2BE2" width="100%" alt="Activity Graph"/>
+### 📦 Most Committed Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mark-one1&theme=tokyonight" height="150" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mark-one1&theme=tokyonight" height="150" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mark-one1&theme=tokyonight" height="150" alt="Profile Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mark-one1&theme=tokyonight" height="150" alt="Productive Time"/>
 
 </div>
 
