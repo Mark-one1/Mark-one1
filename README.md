@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.deno.dev/?font=Orbitron&size=58&duration=3000&color=00F0FF&center=true&vCenter=true&repeat=false&width=600&height=110&lines=NAIDU" alt="NAIDU" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=58&duration=3000&color=00F0FF&center=true&vCenter=true&repeat=false&width=600&height=110&lines=NAIDU" alt="NAIDU" />
 
-<img src="https://readme-typing-svg.deno.dev/?font=Orbitron&size=22&duration=3000&pause=1000&color=FF2D78&center=true&vCenter=true&random=false&width=640&height=50&lines=Full-Stack+Developer;3D+Web+Creator+%7C+Three.js+Enthusiast;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Building+immersive+web+experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=3000&pause=1000&color=FF2D78&center=true&vCenter=true&random=false&width=640&height=50&lines=Full-Stack+Developer;3D+Web+Creator+%7C+Three.js+Enthusiast;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Building+immersive+web+experiences" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -74,7 +74,7 @@ motto: "Code is poetry — make it beautiful."
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mark-one1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF2D78&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="160" src="https://streak-stats.deno.dev/?user=Mark-one1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2D78&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F0FF" alt="GitHub Streak"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mark-one1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2D78&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F0FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
